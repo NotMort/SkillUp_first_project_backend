@@ -1,7 +1,3 @@
-
-### **Backend README**
-
-```markdown
 # Auction System Backend
 
 This is the backend for the Auction System project, built with Node.js and Nest.js. The backend provides RESTful API endpoints for managing auctions, bids, user authentication, and more.
